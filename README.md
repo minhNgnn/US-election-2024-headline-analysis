@@ -1,25 +1,25 @@
-# News Headline Analysis of the 2024 US Election
+# 🗞️ News Headline Analysis of the 2024 US Election 🇺🇸
 
 This repository contains the term paper and analysis notebook for the course **Computational Social Science** at **Ludwig Maximilian University of Munich (LMU)**. The project was conducted by **Minh Nguyen** and explores **media framing and sentiment trends** in the 2024 U.S. Presidential Election using computational text analysis methods.
 
-## Project Overview
+## 🔍 Project Overview
 
 The U.S. media landscape plays a significant role in shaping public opinion during presidential elections. This study investigates whether systematic differences exist in how left-leaning and right-leaning news outlets covered key political topics leading up to the 2024 U.S. presidential election between Donald Trump and Kamala Harris.
 
-### Research Questions
+### ❓ Research Questions
 
 - Do left- and right-leaning media sources use different emotional tones in headlines?
 - How are identical topics (e.g., immigration, Israel-Palestine conflict) framed differently?
 - What are the main topics emphasized by each media orientation?
 
-## Data
+## 🧾 Data
 
 The dataset was collected from [Media Cloud](https://mediacloud.org), comprising over **7600 headlines** from 8 news outlets (4 left-leaning and 4 right-leaning), dated **January 15 – November 5, 2024**.
 
 - Left-leaning: NYTimes, CNN, The Nation, LA Times  
 - Right-leaning: Fox News, NY Post, Breitbart, Hot Air
 
-## Techniques Used
+## 🛠️ Techniques Used
 
 This project combined multiple Natural Language Processing (NLP) techniques:
 
@@ -41,7 +41,7 @@ This project combined multiple Natural Language Processing (NLP) techniques:
 - **Latent Dirichlet Allocation (LDA)** to discover latent themes in the corpus
 - Compared topic distribution across left- and right-leaning outlets
 
-## Key Findings
+## 📊 Key Findings
 
 - **Sentiment Trends**: Right-leaning outlets had more negative sentiments near election day, especially with fear-related emotions.
 - **Framing Differences**: 
@@ -51,16 +51,10 @@ This project combined multiple Natural Language Processing (NLP) techniques:
   - Left media emphasized social issues and protests.
   - Right media focused more on immigration and the economy.
 
-## Files
+## 📂 Files
 
 - `headline_analysis.ipynb`: Jupyter Notebook containing code for preprocessing, analysis, and visualization.
 - `Submitted paper.pdf`: Full academic write-up including methodology, figures, results, and references.
-
-## Author
-
-Minh Nguyen  
-Master’s Student in Data Science  
-LMU Munich
 
 ---
 
