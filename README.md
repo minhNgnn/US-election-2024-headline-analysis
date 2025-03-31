@@ -53,7 +53,7 @@ This project combined multiple Natural Language Processing (NLP) techniques:
 
 ## Files
 
-- `nguyen_minh_code.ipynb`: Jupyter Notebook containing code for preprocessing, analysis, and visualization.
+- `headline_analysis.ipynb`: Jupyter Notebook containing code for preprocessing, analysis, and visualization.
 - `Submitted paper.pdf`: Full academic write-up including methodology, figures, results, and references.
 
 ## Author
